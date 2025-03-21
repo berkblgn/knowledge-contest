@@ -267,7 +267,7 @@ namespace Passaparola
                         }
                         break;
                     case 9:
-                        if (textBox1.Text == "ısparta")
+                        if (textBox1.Text == "ıspartaa")
                         {
                             button9.BackColor = Color.Green;
                             dogru++;
